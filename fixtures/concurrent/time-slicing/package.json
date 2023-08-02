@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "glob-parent": "5.1.2",
     "glamor": "^2.20.40",
     "react": "0.0.0-experimental-269dd6ec5",
     "react-dom": "0.0.0-experimental-269dd6ec5",
